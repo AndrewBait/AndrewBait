@@ -1,8 +1,10 @@
 ### Olá sou o Andrew 👋
 
-🌱 Atualmente estudo ADS pelo IFSP - Campos do Jordão
-👯 Estudando as linguagens C, C++ e Pythom
-🤔 Email pra contato andrewsilva811gmail.com
+📖 Estudando ADS pelo IFSP - Campos do Jordão
+
+💻 Estudando as linguagens C, C++ e Pythom
+
+📧 Email pra contato andrewsilva811gmail.com
 
 
 <div align="center">
