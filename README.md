@@ -2,7 +2,7 @@
 
 📖 Estudando ADS pelo IFSP - Campos do Jordão
 
-💻 Estudando as linguagens C, C++ e Pythom
+💻 Estudando as linguagens C, C++ C# e Pythom
 
 📧 Email pra contato andrewsilva811gmail.com
 
