@@ -24,11 +24,6 @@
 
 <h3 align="center">📫 Get in Touch 📫</h3>
 
-<p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email</a> |
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
-
 <hr>
 
 <p align="center">⭐️ Feel free to connect and collaborate! ⭐️</p>
