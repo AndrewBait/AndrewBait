@@ -2,7 +2,7 @@
 
 <p align="center">📖 Studying Analysis and Systems Development at IFSP</p>
 
-<p align="center">💻 Currently learning C# and Python programming languages</p>
+<p align="center">💻 Currently deepening my expertise in Python and its frameworks</p>
 
 <hr>
 
@@ -16,7 +16,8 @@
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
-- Programming Languages: C#, Python
+- Programming Languages: Python
+- Frameworks: Django, Django Template Language (DTL), Django REST Framework (DRF)
 - Web Technologies: HTML, CSS
 - Tools: Visual Studio, PyCharm, Git
 
