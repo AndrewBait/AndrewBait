@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Andrew! 👋</h1>
 
 <p align="center">
-  <img src="[URL_DO_SEU_GIF](https://github.com/AndrewBait/gif/blob/main/1be0050b393f6c4f9fe7eccfd8856a40.gif)" alt="GIF">
+  <img src="https://github.com/AndrewBait/gif/blob/main/1be0050b393f6c4f9fe7eccfd8856a40.gif" alt="GIF">
 </p>
 
 <p align="center">📖 Studying Analysis and Systems Development at IFSP</p>
