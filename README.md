@@ -5,57 +5,56 @@
 </p>
 
 <p align="center">
-  Estudante graduado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend.
+  Graduated in System Analysis and Development, focusing on Backend development.
 </p>
 
 ---
 
-## ✨ Sobre Mim
+## ✨ About Me
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFSP.
-- 💻 Atuo como desenvolvedor Backend, principalmente com **Node.js** e **NestJS** (TypeScript).
-- 🔎 Sempre buscando novas oportunidades para evoluir minhas habilidades e contribuir em projetos desafiadores.
-- 🚀 Apaixonado por tecnologia, boas práticas de código (SOLID, Clean Code) e segurança em APIs RESTful.
+- 🎓 Graduated in System Analysis and Development at IFSP.
+- 💻 I work as a Backend Developer, mainly with **Node.js** and **NestJS** (TypeScript).
+- 🔎 Always seeking new opportunities to improve my skills and contribute to challenging projects.
+- 🚀 Passionate about technology, code best practices (SOLID, Clean Code), and security in RESTful APIs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Linguagens & Frameworks**  
+**Languages & Frameworks**  
 - **TypeScript** | **NestJS** | Node.js  
 - **Python** | Django, Django REST Framework (DRF)  
 - HTML, CSS
 
-**Ferramentas & Práticas**  
+**Tools & Practices**  
 - **VSCode**, Visual Studio, PyCharm  
 - **Git & GitHub**  
-- **Princípios de SOLID, Clean Code e Melhores Práticas de Segurança**  
-- **APIs RESTful** e documentação (OpenAPI/Swagger)  
+- **SOLID principles, Clean Code, and Best Security Practices**  
+- **RESTful APIs** and documentation (OpenAPI/Swagger)
 
 ---
 
-## ⚙️ Principais Competências
+## ⚙️ Key Competencies
 
-- **NestJS & TypeScript**: Criação de APIs robustas, escaláveis e seguras seguindo boas práticas.
-- **Python & Django**: Construção de aplicações web completas, incluindo API RESTful com Django REST Framework.
-- **Banco de Dados**: Integração com bancos relacionais e não-relacionais (PostgreSQL, MongoDB, etc.).
-- **Arquitetura de Sistemas**: Aplicação de princípios SOLID para manter código limpo e modular.
-- **Segurança**: Implementação de autenticação, autorização e boas práticas de segurança em APIs.
-
----
-
-## 🎯 Objetivos
-
-- Contribuir com projetos que façam uso de **TypeScript/NestJS** e **Django/Python** para entregar soluções de alta qualidade.
-- Promover boas práticas, metodologias ágeis e padrões de projeto para times de desenvolvimento.
-- Estudar constantemente para me manter atualizado nas tendências de mercado e evoluir como desenvolvedor.
+- **NestJS & TypeScript**: Building robust, scalable, and secure APIs following best practices.
+- **Python & Django**: Developing complete web applications, including RESTful APIs with Django REST Framework.
+- **Databases**: Integration with relational and non-relational databases (PostgreSQL, MongoDB, etc.).
+- **System Architecture**: Applying SOLID principles to maintain clean and modular code.
+- **Security**: Implementing authentication, authorization, and best security practices in APIs.
 
 ---
 
+## 🎯 Objectives
 
-## 📫 Contato
+- Contribute to projects that utilize **TypeScript/NestJS** and **Django/Python** to deliver high-quality solutions.
+- Promote best practices, agile methodologies, and design patterns within development teams.
+- Continuously study and stay updated with market trends to evolve as a developer.
 
-- **Email**: [andrewsilva811@gmail.com](mailto:seu-email-aqui)
+---
+
+## 📫 Contact
+
+- **Email**: [andrewsilva811@gmail.com](mailto:andrewsilva811@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/andrew-oliveira-1b9803221/](#)
 - **GitHub**: [AndrewBait](https://github.com/AndrewBait)
 
@@ -70,5 +69,5 @@
 ---
 
 <p align="center">
-  ⭐️ Fique à vontade para entrar em contato e colaborar! ⭐️
+  ⭐️ Feel free to reach out and collaborate! ⭐️
 </p>
