@@ -4,38 +4,71 @@
   <img src="https://github.com/AndrewBait/gif/blob/main/1be0050b393f6c4f9fe7eccfd8856a40.gif" alt="GIF">
 </p>
 
-<p align="center">📖 Studying Analysis and Systems Development at IFSP</p>
+<p align="center">
+  Estudante graduado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend.
+</p>
 
-<p align="center">💻 Currently deepening my expertise in Python and its frameworks</p>
+---
 
-<hr>
+## ✨ Sobre Mim
 
-<h3 align="center">🌟 About Me 🌟</h3>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFSP.
+- 💻 Atuo como desenvolvedor Backend, principalmente com **Node.js** e **NestJS** (TypeScript).
+- 🔎 Sempre buscando novas oportunidades para evoluir minhas habilidades e contribuir em projetos desafiadores.
+- 🚀 Apaixonado por tecnologia, boas práticas de código (SOLID, Clean Code) e segurança em APIs RESTful.
 
-- 🎓 Currently pursuing a degree in Analysis and Systems Development at IFSP.
-- 💼 Actively seeking opportunities to enhance my skills and contribute to exciting projects.
-- 🚀 Passionate about technology and its potential to drive positive change in the world.
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+**Linguagens & Frameworks**  
+- **TypeScript** | **NestJS** | Node.js  
+- **Python** | Django, Django REST Framework (DRF)  
+- HTML, CSS
 
-- Programming Languages: Python
-- Frameworks: Django, Django Template Language (DTL), Django REST Framework (DRF)
-- Web Technologies: HTML, CSS
-- Tools: Visual Studio, PyCharm, Git
+**Ferramentas & Práticas**  
+- **VSCode**, Visual Studio, PyCharm  
+- **Git & GitHub**  
+- **Princípios de SOLID, Clean Code e Melhores Práticas de Segurança**  
+- **APIs RESTful** e documentação (OpenAPI/Swagger)  
 
-<hr>
+---
 
-<h3 align="center">📫 Get in Touch 📫</h3>
+## ⚙️ Principais Competências
 
-<hr>
+- **NestJS & TypeScript**: Criação de APIs robustas, escaláveis e seguras seguindo boas práticas.
+- **Python & Django**: Construção de aplicações web completas, incluindo API RESTful com Django REST Framework.
+- **Banco de Dados**: Integração com bancos relacionais e não-relacionais (PostgreSQL, MongoDB, etc.).
+- **Arquitetura de Sistemas**: Aplicação de princípios SOLID para manter código limpo e modular.
+- **Segurança**: Implementação de autenticação, autorização e boas práticas de segurança em APIs.
+
+---
+
+## 🎯 Objetivos
+
+- Contribuir com projetos que façam uso de **TypeScript/NestJS** e **Django/Python** para entregar soluções de alta qualidade.
+- Promover boas práticas, metodologias ágeis e padrões de projeto para times de desenvolvimento.
+- Estudar constantemente para me manter atualizado nas tendências de mercado e evoluir como desenvolvedor.
+
+---
+
+
+## 📫 Contato
+
+- **Email**: [andrewsilva811@gmail.com](mailto:seu-email-aqui)
+- **LinkedIn**: [https://www.linkedin.com/in/andrew-oliveira-1b9803221/](#)
+- **GitHub**: [AndrewBait](https://github.com/AndrewBait)
+
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erikasilverio}/count.svg" /></p> 
-<br>
+  <br><p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/{AndrewBait}/count.svg" alt="Visitors Count" />
+  <br>
 </div>
 
-<hr>
-<p align="center">⭐️ Feel free to connect and collaborate! ⭐️</p>
+---
+
+<p align="center">
+  ⭐️ Fique à vontade para entrar em contato e colaborar! ⭐️
+</p>
